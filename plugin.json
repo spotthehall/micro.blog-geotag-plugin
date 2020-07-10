@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "title": "GeoTag",
+  "description": "Takes the Title field and passes any coordinates entered to a marker on a map. The map marker links back to the article and vica versa. "
+  "includes": [
+    "/leaflet.css",
+    "/leaflet-src.js",
+    "/leaflet.js",
+    "map_meta.html"
+  ]
+}
