@@ -6,5 +6,6 @@
     "/leaflet.css",
     "/leaflet-src.js",
     "/leaflet.js",
+    "map_meta.html"
   ]
 }
