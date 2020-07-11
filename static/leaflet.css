@@ -1,9 +1,5 @@
 /* required styles */
-html, body {
-	margin: 0;
-	padding: 0
-}
-.container #map {
+#map {
     width: 100%;
     margin: 0 auto 1rem;
     height: 750px
