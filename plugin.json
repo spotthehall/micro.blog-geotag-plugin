@@ -3,7 +3,6 @@
   "title": "GeoTag",
   "description": "Please Note: This takes the Title field and passes any coordinates entered to a marker on a map, so has minority appeal ;) The map marker links back to the article and vica versa.",
   "includes": [
-    "/leaflet.css",
     "/leaflet-src.js",
     "map_meta.html"
   ]
