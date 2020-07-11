@@ -2,6 +2,4 @@
 
 Warning: This uses the Title field for coordinates - so not for everybody!
 
-This has been tested with the Kiko theme and at the moment is loading the Head link to the css files twice, so it does work, but I'll try to sort that issue out in the next version.
-
-To Do: Testing with other themes.
+Now seems to work with most themes except "Hyde" is displaying a narrow map and throwing exceptions and "Archie" is creating gaps in the map tiles.
