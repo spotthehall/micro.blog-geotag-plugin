@@ -2,4 +2,4 @@
 
 Warning: This uses the Title field for coordinates - so not for everybody!
 
-Now seems to work with most themes except "Hyde" is displaying a narrow map and throwing exceptions and "Archie" is creating gaps in the map tiles.
+Tested with all themes and issues found so far are in the "Archie" theme where it is creating gaps in the map tiles and it does not work with "Hyde".
