@@ -1,6 +1,6 @@
 # micro.blog-map
 
-Warning: This uses the Title field for coordinates - so not for everybody!
+<red>Warning: This uses the Title field for coordinates - so not for everybody!</red>
 
 Not a bean!
 
@@ -8,4 +8,4 @@ Not even a sausage should go into the Title field for the map plugin to work oth
 
 Tested with all themes and issues found so far are in the "Archie" theme where it is creating gaps in the map tiles and it does not work with "Hyde".
 
-### I am working on resolving thr Title conflicts, with the aim to make it a viable plugin for folk who are established micro.blog users and have existing Titled posts.
+### I am working on resolving the Title conflicts, with the aim to make it a viable plugin for folk who are established micro.blog users and have existing Titled posts.
