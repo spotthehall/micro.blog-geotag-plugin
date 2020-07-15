@@ -1,6 +1,6 @@
 # micro.blog-map
 
-<p style="color:red">Warning: This uses the Title field for coordinates - so not for everybody!</p>
+_Warning: This uses the Title field for coordinates - so not for everybody!_
 
 Not a bean!
 
