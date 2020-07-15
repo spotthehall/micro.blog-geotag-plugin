@@ -1,4 +1,4 @@
-# micro.blog-geotag-plugin
+# micro.blog-map
 
 Warning: This uses the Title field for coordinates - so not for everybody!
 
