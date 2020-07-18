@@ -49,7 +49,7 @@ var leafIcon = L.icon({
     shadowAnchor: [10,19],
     popupAnchor:  [-5,-20]
 });
-{{ $list := (where .Site.Pages "Type" "post") }} {{ range $list }}{{ if.Title }}
+{{ $list := (where .Site.Pages "Type" "post") }}{{ range $list }}{{ if.Title }}
 var marker = new L.Marker([{{ .Title  | safeJS  }}], {icon: leafIcon} ).addTo(map).bindPopup("<a href='{{ .Permalink }}'>{{ .Date.Format "2006-01-02" }}</a>");
 {{ end }} {{ end }}
 
