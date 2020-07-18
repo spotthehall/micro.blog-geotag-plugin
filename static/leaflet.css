@@ -28,6 +28,10 @@
 	-ms-touch-action: none;
 	}
 .leaflet-tile,
+.leaflet-marker-icon {
+	height: 30px;
+}
+.leaflet-tile,
 .leaflet-marker-icon,
 .leaflet-marker-shadow {
 	-webkit-user-select: none;
