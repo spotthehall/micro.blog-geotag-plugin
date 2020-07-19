@@ -27,9 +27,9 @@
 	overflow: hidden;
 	-ms-touch-action: none;
 	}
-.leaflet-tile,
 .leaflet-marker-icon {
 	height: 30px;
+	width: 20px;
 }
 .leaflet-tile,
 .leaflet-marker-icon,
