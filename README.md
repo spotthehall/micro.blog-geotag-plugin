@@ -12,4 +12,4 @@ Tested with all themes and issues found so far are:
 - "Minos" theme single page style destroyed
 - "Hyde" theme largely misbehaves!
 
-### I also made the micro.blog-swarm plugin, which hopefully will replace this when micro.blog apps embrace the .Params.location_latitude and .Params.location_longitude location API data.
+_I also made the micro.blog-swarm plugin, which hopefully will replace this when micro.blog apps embrace the .Params.location_latitude and .Params.location_longitude location API data._
